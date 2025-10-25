@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 I’m an **AI automation specialist** skilled in creating **low-code/no-code workflows** that help businesses save time and streamline operations.  
-Alongside this, I have **beginner-level experience in DevOps**, specifically with Azure DevOps boards and basic CI/CD pipeline setup.
+Alongside this, I have **professional experience in DevOps**, specifically with Azure DevOps boards and basic CI/CD pipeline setup.
 
 My focus is on combining automation and cloud tools to deliver practical, scalable solutions.
 
@@ -19,11 +19,14 @@ My focus is on combining automation and cloud tools to deliver practical, scalab
 - n8n, Airtable, REST API integrations  
 - AI Prompt Engineering & Content Generation Workflows
 
-**Beginner DevOps Skills**
+**DevOps Skills**
 - Azure DevOps Boards: Task tracking, sprint management  
-- Azure Pipelines: Basic build/release pipeline configuration  
+- Azure Pipelines: Basic build/release pipeline configuration
+- AWS: EC2, EBS, S3 
 - GitHub Actions: Simple automation workflows  
-- Docker (basic container usage)
+- Docker
+- Jenkins CI/CD
+- 
 
 **Programming & Scripting**
 - Python, JavaScript, MQL5 (for trading automation)
