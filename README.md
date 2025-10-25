@@ -29,7 +29,7 @@ My focus is on combining automation and cloud tools to deliver practical, scalab
 - 
 
 **Programming & Scripting**
-- Python, JavaScript, MQL5 (for trading automation)
+- C#.NET , Python, JavaScript, MQL5 (for trading automation)
 
 **Other**
 - SEO-optimized content workflows  
@@ -39,7 +39,7 @@ My focus is on combining automation and cloud tools to deliver practical, scalab
 
 ### 📌 Current Focus
 - **AI Automation Services** — End-to-end content, marketing, and business process automation
-- **Expanding DevOps Skills** — Learning Azure-focused CI/CD, containerization, and cloud deployments
+- **DevOps Skills** — CI/CD, Linux, containerization, and cloud deployments
 
 ---
 
